@@ -1,0 +1,14 @@
+{
+  "name": "random-user",
+  "version": "1.0.0",
+  "description": "a little training exercise so i don't get rusty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "RebelNii",
+  "license": "ISC"
+}
